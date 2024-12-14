@@ -1,8 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=ASS+CODE+AHEAD.)](https://git.io/typing-svg)
+
 # Hey yall!
-My name is "CyzmiX" and im a self thaught programmer!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=CyzmiX.)](https://git.io/typing-svg)
-
-
+My name is CyzmiX and im a self thaught programmer!
 
 ![ItzCyzmiX](https://github-readme-stats.vercel.app/api?username=ItzCyzmiX&show_icons=true&theme=tokyonight&hide=["issues"])
 

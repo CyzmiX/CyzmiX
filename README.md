@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=ASS+CODE+AHEAD.)](https://git.io/typing-svg)
-[![Greetin](https://capsule-render.vercel.app/api?text=Hey+Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100)](https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100)
-  
+[Greetin](https://capsule-render.vercel.app/api?text=Hey+Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100)
 
 
 

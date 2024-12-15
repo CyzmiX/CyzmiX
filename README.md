@@ -1,6 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=ASS+CODE+AHEAD.)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=ASS+CODE+AHEAD.)](https://git.io/typing-svg)
+</p>
+
 
 My name is CyzmiX and im a self thaught programmer!
 
